@@ -1,0 +1,23 @@
+
+.navbar a {
+    display: inline-block;
+    color:rgb(56, 62, 66);
+    border: 2px none;
+    text-decoration: none;
+    padding: 5px;
+
+}
+
+.navbar{
+    background-color:#E0C1B3;
+    text-align: center;
+    
+}
+
+.navbar li {
+    list-style: none;
+}
+
+.navbar a:hover{
+    background-color:#f2d7cb;
+}

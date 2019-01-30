@@ -1,0 +1,88 @@
+
+body{
+    background-image: url(https://tinyurl.com/rosebkgrdimg);
+    padding-left: 200px;
+    padding-right: 200px;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    background-color: #ABA494
+}
+
+h2{
+
+    margin-left:200px;
+     text-align: center;
+     background-color: #ABA494
+     
+}
+
+h3{
+    text-align: center;
+    margin-left:20px;
+    background-color: #ABA494
+}
+
+p{
+    font: 1.05em;
+}
+
+ol{
+    font: 1.05em; 
+}
+
+code{
+    color: red;
+}
+
+
+.centerheadings {
+    margin-left: 280px;
+    margin-right: 227px;
+    text-align: center;
+    background-color: #ABA494
+}
+
+.centerparagraphs {
+    margin-left:145px;
+    margin-right:145px;   
+    text-align:center;
+}
+
+
+.row-container > *{
+    display:inline-block;
+    width:45%;
+    vertical-align: top;
+}
+
+.fontsize {
+    
+}
+
+#tag{
+    font: 1.05em ;
+}
+
+#intro{
+    margin-left: 273px;
+    margin-right: 273px;
+}
+
+#program{
+    margin-left: 208px;
+    margin-right: 208px;
+}
+
+#center4{
+    margin-left: 350px;
+    margin-right: 277;   
+}
+
+#center{
+    margin-left: 65px;
+    margin-right: 65px;
+}
